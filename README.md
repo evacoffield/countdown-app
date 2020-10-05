@@ -1,3 +1,12 @@
+## Countdown App
+
+https://evacoffield.github.io/countdown-app/
+
+ReactJS and Redux App
+Styling with React Bootstrap
+
+Calculates time until an event
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
