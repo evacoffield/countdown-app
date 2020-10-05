@@ -1,10 +1,21 @@
 .App {
   text-align: center;
+  font-size: 35px;
+  margin-top: 20%;
+}
+
+.App-title {
+  font-size: 50px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.Deadline-input {
+  font-size: 25px;
+  margin: 5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
